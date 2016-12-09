@@ -1,0 +1,2 @@
+enter :e ++ff=dos to remove ^M when viewing a file
+

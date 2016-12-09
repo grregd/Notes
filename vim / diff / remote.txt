@@ -1,0 +1,2 @@
+vimdiff /path/to/file scp://remotehost//path/to/file
+
