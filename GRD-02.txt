@@ -1,13 +1,20 @@
-Dozymetr oczywiście w 100% sprawny, bez ukrytych skaz wizualnych i technicznych. Dozymetr sprzedaję wraz z baterią. W razie pytań, informacji lub dodatkowych zdjęć oferowanego produktu proszę o kontakt. Odbiór osobisty jak najbardziej możliwy.
+Dozymetr oczywiście w 100% sprawny, bez ukrytych skaz wizualnych i technicznych.
+Dozymetr sprzedaję wraz z baterią. W razie pytań, informacji lub dodatkowych zdjęć
+oferowanego produktu proszę o kontakt. Odbiór osobisty jak najbardziej możliwy.
 
- 
+Oferowane urządzenie to licznik Geigera-Muellera i dozymetr w jednym - mierzy
+natężenie promieniowania i pochłoniętą dawkę!
 
-Oferowane urządzenie to licznik Geigera-Muellera i dozymetr w jednym - mierzy natężenie promieniowania i pochłoniętą dawkę!
+Urządzenie jest łatwe w obsłudze, konfigurowalne oraz cechuje się dobrymi parametrami
+technicznymi a także szerokim zakresem pomiarowym!
 
-Urządzenie jest łatwe w obsłudze, konfigurowalne oraz cechuje się dobrymi parametrami technicznymi a także szerokim zakresem pomiarowym!
+Urządzenie wykrywa promieniowanie jonizujące, pokazując zmierzony poziom w µSv/h
+lub pochłoniętą dawkę w czasie (EqAD) w Sv. Za jego pomocą można ocenić poziom
+skażenia radioaktywnego otoczenia, środków spożywczych, urządzeń, materiałów
+budowlanych i innych.
+Przekroczenie ustalonego poziomu mierzonego promieniowania jak i dawki pochłoniętej
+w czasie wywołuje alarm optyczny (czerwony LED) i akustyczny (BUZZER).
 
-Urządzenie wykrywa promieniowanie jonizujące, pokazując zmierzony poziom w µSv/h lub pochłoniętą dawkę w czasie (EqAD) w Sv. Za jego pomocą można ocenić poziom skażenia radioaktywnego otoczenia, środków spożywczych, urządzeń, materiałów budowlanych i innych.
-Przekroczenie ustalonego poziomu mierzonego promieniowania jak i dawki pochłoniętej w czasie wywołuje alarm optyczny (czerwony LED) i akustyczny (BUZZER).
 Zastosowana tuba pomiarowa: CTC-5 (STS-5).
 
 CECHY:
@@ -18,24 +25,46 @@ CECHY:
 - wyświetlacz LCD pokazujący aktualną wartość i stan promieniowania (Low, Mid, Hi, V-Hi),
 - możliwość wyłączenia dźwięku i/lub LEDa,
 - możliwość ustawiania wielu parametrów pracy:
+
 CLR EqAD - Kasowanie wartości dawki pochłoniętej przez wciśniecie klawiszy MIN i MAX
-Battery - wybór typu baterii Alkaine: alkaicznej lub NiMH: akumulatora Ni-MH
-Unit Ra. - wybór jednostki pomiarowej uSv/h lub uR/h
+Battery  - wybór typu baterii Alkaine: alkaicznej lub NiMH: akumulatora Ni-MH
+           - alkaline
+           Ni-MH
+Unit Ra. - wybór jednostki pomiaroweji
+           - uSv/h
+           - uR/h
 Time AQT - czas trwania pomiaru (zalecany normal)
-Sensiv. - czułość (zalecana low)
-Led - włączenie/wyłączenie sygnalizacji wykrytej cząstki przez LEDa
-SND - włączenie/wyłączenie sygnalizacji wykrytej cząstki przez buzzer, oraz wybór dźwięku: click lub ton
-Survey - przy ustawieniu Enable pokazuje czas do zakończenia pomiaru.
-Alarm - włącza/wyłącza funkcje alarmu po przekroczeniu ustawionego progu alarmu (0.50uSv-9.99uSv)
-Al EqAD - ustawienie alarmu przekroczenia dawki pochłoniętej od 1mS do 1Sv
-APO - (Auto Power Off) Włączenie/Wyłączenie automatycznego wyłączenia urządzenia po upływie ustawionego czasu od ostatniego użycia dowolnego klawisza (od 1min do 240min). Na 1 minutę przed wyłączeniem sygnalizuje że się wyłączy. Naciśniecie dowolnego klawisza kasuje licznik czasu i zaczyna od nowa.
-Tube Ua - ustawienie napięcia lampy Geigera-Mullera. Dla CTC-5 dopuszczalne to 360V-440V. Większe napięcie powoduje wykrywanie cząstek o mniejszej energii.
+           - fast
+           - normal *
+           - fine
+           - veryfine
+           
+Sensiv.  - czułość (zalecana low)
+           - low
+           - middle
+           - high
+Led      - włączenie/wyłączenie sygnalizacji wykrytej cząstki przez LEDa
+SND      - włączenie/wyłączenie sygnalizacji wykrytej cząstki przez buzzer, oraz wybór dźwięku: click lub ton
+Survey   - przy ustawieniu Enable pokazuje czas do zakończenia pomiaru.
+           - timer on
+           - timer off
+Alarm    - włącza/wyłącza funkcje alarmu po przekroczeniu ustawionego progu alarmu (0.50uSv-9.99uSv)
+Alarm at - wartość poziomu promieniowania, przy którym włącza się alaram
+Al EqAD  - ustawienie alarmu przekroczenia dawki pochłoniętej od 1mS do 1Sv
+APO      - (Auto Power Off) Włączenie/Wyłączenie automatycznego wyłączenia urządzenia po upływie
+           ustawionego czasu od ostatniego użycia dowolnego klawisza (od 1min do 240min).
+           Na 1 minutę przed wyłączeniem sygnalizuje że się wyłączy. Naciśniecie dowolnego klawisza
+           kasuje licznik czasu i zaczyna od nowa.
+Tube Ua  - ustawienie napięcia lampy Geigera-Mullera. Dla CTC-5 dopuszczalne to 360V-440V.
+           Większe napięcie powoduje wykrywanie cząstek o mniejszej energii.
 
 PARAMETRY URZĄDZENIA:
 Zasilanie:
 - zasilanie bateryjne 9V (dopuszczalne od 6.5V-12V),
 - automatyczne wyłącznie gdy bateria jest za słaba i gdy napięcie jest za duże,
-- wizualizacja stanu baterii: 5 poziomów + 2 stany alarmowe (miga „pełna” gdy napięcie za duże, miga „pusta” gdy wyczerpana)
+- wizualizacja stanu baterii: 5 poziomów + 2 stany alarmowe (miga „pełna” gdy napięcie za duże,
+  miga „pusta” gdy wyczerpana)
+
 Poziom mierzonego promieniowania:
 0.01 µSv/h - 9.99 µSv/h (min zakres)
 0.1 µSv/h - 99.9 µSv/h (max zakres)
