@@ -44,3 +44,5 @@ Równoważnik dawki pochłoniętej EqAD:
 0.01 µSv - 9.99 µSv (min zakres)
 0.001 Sv - 9.999 Sv (max zakres)
 (alarm dawki pochłoniętej ustawiany od 1mSv do 1Sv)
+
+MIN + ON/OFF (długo) - uruchomienie w trybie setupu
