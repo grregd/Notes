@@ -1,0 +1,4 @@
+starting qtcreator with the following command avoids crash related to graphics:
+
+qtcreator -noload Welcome -noload QmlDesigner -noload QmlProfiler
+
