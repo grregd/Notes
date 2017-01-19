@@ -1,0 +1,3 @@
+extract audio from container:
+  ffmpeg -i input.mp4 -vn -c:a copy output.m4a # -vn - remove video, -c:a - copy audio
+

@@ -1,0 +1,7 @@
+FTWAID_Recrete_Branch
+<@mybranch> svn up
+<@mybranch> patch
+FTWAID
+check promotion criteria
+FTWAID_Merge_Back_To_Trunk
+
