@@ -1,0 +1,7 @@
+#
+# storing mms stream; use proxy and dummy (no-gui) interface
+#
+vlc --intf dummy http://stream.polskieradio.pl/program1 --sout file/wma:eureka.wma --mmsh-proxy http://10.144.1.10:808  
+
+# same as above, alternative output specification
+vlc --intf dummy http://stream.polskieradio.pl/program1 --sout=#std{access=file,mux=wma,dst="eureka-%Y%m%d.wma"} --mmsh-proxy http://10.144.1.10:8080
