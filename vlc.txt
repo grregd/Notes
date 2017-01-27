@@ -4,4 +4,4 @@
 vlc --intf dummy http://stream.polskieradio.pl/program1 --sout file/wma:eureka.wma --mmsh-proxy http://10.144.1.10:808  
 
 # same as above, alternative output specification
-vlc --intf dummy http://stream.polskieradio.pl/program1 --sout=#std{access=file,mux=wma,dst="eureka-%Y%m%d.wma"} --mmsh-proxy http://10.144.1.10:8080
+vlc --intf dummy http://stream.polskieradio.pl/program1 --sout-file-format --sout=#std{access=file,mux=wma,dst="eureka-%Y%m%d.wma"} --mmsh-proxy http://10.144.1.10:8080
