@@ -1,5 +1,7 @@
 extract audio from container:
   ffmpeg -i input.mp4 -vn -c:a copy output.m4a # -vn - remove video, -c:a - copy audio
+
+extract images from video
   ffmpeg -i input  -start_number 0 -vf fps=1/9 "%02d.jpg"
 
 extract part of audio file:
