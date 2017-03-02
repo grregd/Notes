@@ -6,3 +6,7 @@ extract images from video
 
 extract part of audio file:
   ffmpeg -i input.mp3 -ss 607 -t 1026 -c:a copy output.mp3 # ss - start time [s], t - duration [s]
+
+pump up the volume
+  ffmpeg -i input.wav -af "volume=1.5" output.wav
+
