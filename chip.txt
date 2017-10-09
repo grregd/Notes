@@ -1,15 +1,18 @@
-SSH
+== SSH
 
-chip/chip
-
-
-MAKE DEBIAN TO BOOT INTO CONSOLE (NO GUI START)
-
-sudo systemctl set-default multi-user.target
+    chip/chip
 
 
+== MAKE DEBIAN TO BOOT INTO CONSOLE (NO GUI START)
 
-MAKE DEBIAN TO BOOT INTO GUI
+    sudo systemctl set-default multi-user.target
 
-sudo systemctl set-default graphical.target
 
+== MAKE DEBIAN TO BOOT INTO GUI
+
+    sudo systemctl set-default graphical.target
+
+
+== STARTING fim
+
+    /home/chip/fim-run.sh
