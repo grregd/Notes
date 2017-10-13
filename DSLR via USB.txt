@@ -1,0 +1,38 @@
+Control DSLR via WIFI or BT.
+
+Device connected to DSLR via USB must support USB Host/OTG.
+Device provides access through WIFI or BT to be used by smartphone for example.
+
+                                     /|
+        +--------+    USB    +------| |
+        | device |-----------| DSLR | |
+        +-+----+-+           +-------\|
+          o    o
+        Http   BT
+
+
+Hardware
+
+    Raspberry
+
+        Raspberry Pi 0
+            + usb otg
+            + small (65 x 30 5 mm)
+            + micro sd card reader
+            o HDMI output
+            o 26 PLN (w botland)
+
+        Raspberry Pi 0 W
+            + same as Pi 0 plus following
+            + WIFI and BT
+            o 52 PLN (w botland)
+
+        Links:
+            https://learn.adafruit.com/turning-your-raspberry-pi-zero-into-a-usb-gadget/overview
+
+    Next Thing
+        Chip
+            + WIFI and BT
+            + small
+            o video output through extension
+            ? check if recognizes DSLR or any other camera
