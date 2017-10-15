@@ -35,4 +35,13 @@ Hardware
             + WIFI and BT
             + small
             o video output through extension
-            ? check if recognizes DSLR or any other camera
+            + recognizes Nikon D90 on USB
+                - not immediately (requires to turn on camera twice)
+
+Solution
+    Chip
+        gPhoto2 (http://gphoto.org/doc/remote/)
+            - verified functions:
+                - captures one photo with storing on DSLR (gphoto2 --capture-image)
+                - captures one photo and download (gphoto2 --capture-image-and-download)
+                    - removes files from the card
