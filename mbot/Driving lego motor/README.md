@@ -1,3 +1,3 @@
 
 
-![L293 wiring]L293wiring.png!
+![L293 wiring](L293wiring.png)!
