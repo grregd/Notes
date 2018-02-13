@@ -1,0 +1,18 @@
+
+on windows (gitbash)
+
+must export as follows:
+
+export GIT_SSH_COMMAND='ssh -o KexAlgorithms=+diffie-hellman-group1-sha1'
+
+
+
+doesn't work for the following command
+
+gitdir=$(git rev-parse --git-dir); scp -p -P 29418 dulewgrz@uv000253.eu.tieto.com:hooks/commit-msg ${gitdir}/hooks/
+
+it must be extended to the following
+
+gitdir=$(git rev-parse --git-dir); scp -o KexAlgorithms=+diffie-hellman-group1-sha1 -p -P XXXXX YYYYYYY@host:hooks/commit-msg ${gitdir}/hooks/
+
+
