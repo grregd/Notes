@@ -15,4 +15,4 @@
 
 # Keywords
 * *UEFI* - Unified Extensible Firmeare Interface
-* *NVRAM* - Non-volitale RAM
+* *NVRAM* - Non-volatile RAM
